@@ -19,6 +19,7 @@
     NSLog(@"slack");
     NSLog(@"master");
     NSLog(@"add for feature1");
+    NSLog(@"add a dev");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
