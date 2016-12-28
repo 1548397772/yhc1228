@@ -20,6 +20,7 @@
     NSLog(@"master");
     NSLog(@"add for feature1");
     NSLog(@"add a dev");
+    NSLog(@"aaabranch");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
