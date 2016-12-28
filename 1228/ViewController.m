@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"slack");
+<<<<<<< HEAD
     NSLog(@"master");
+=======
+    NSLog(@"add for feature1");
+>>>>>>> feature1
     // Do any additional setup after loading the view, typically from a nib.
 }
 
